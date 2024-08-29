@@ -1,0 +1,15 @@
+C:\Users\administrator\Documents\leandro\c#\CadastroLivrosPOO\bin\Debug\net8.0\CadastroLivrosPOO.exe
+C:\Users\administrator\Documents\leandro\c#\CadastroLivrosPOO\bin\Debug\net8.0\CadastroLivrosPOO.deps.json
+C:\Users\administrator\Documents\leandro\c#\CadastroLivrosPOO\bin\Debug\net8.0\CadastroLivrosPOO.runtimeconfig.json
+C:\Users\administrator\Documents\leandro\c#\CadastroLivrosPOO\bin\Debug\net8.0\CadastroLivrosPOO.dll
+C:\Users\administrator\Documents\leandro\c#\CadastroLivrosPOO\bin\Debug\net8.0\CadastroLivrosPOO.pdb
+C:\Users\administrator\Documents\leandro\c#\CadastroLivrosPOO\obj\Debug\net8.0\CadastroLivrosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\administrator\Documents\leandro\c#\CadastroLivrosPOO\obj\Debug\net8.0\CadastroLivrosPOO.AssemblyInfoInputs.cache
+C:\Users\administrator\Documents\leandro\c#\CadastroLivrosPOO\obj\Debug\net8.0\CadastroLivrosPOO.AssemblyInfo.cs
+C:\Users\administrator\Documents\leandro\c#\CadastroLivrosPOO\obj\Debug\net8.0\CadastroLivrosPOO.csproj.CoreCompileInputs.cache
+C:\Users\administrator\Documents\leandro\c#\CadastroLivrosPOO\obj\Debug\net8.0\CadastroLivrosPOO.sourcelink.json
+C:\Users\administrator\Documents\leandro\c#\CadastroLivrosPOO\obj\Debug\net8.0\CadastroLivrosPOO.dll
+C:\Users\administrator\Documents\leandro\c#\CadastroLivrosPOO\obj\Debug\net8.0\refint\CadastroLivrosPOO.dll
+C:\Users\administrator\Documents\leandro\c#\CadastroLivrosPOO\obj\Debug\net8.0\CadastroLivrosPOO.pdb
+C:\Users\administrator\Documents\leandro\c#\CadastroLivrosPOO\obj\Debug\net8.0\CadastroLivrosPOO.genruntimeconfig.cache
+C:\Users\administrator\Documents\leandro\c#\CadastroLivrosPOO\obj\Debug\net8.0\ref\CadastroLivrosPOO.dll
