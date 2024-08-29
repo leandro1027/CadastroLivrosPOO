@@ -5,7 +5,7 @@ public class Emprestimo
     public Livro Livro { get; private set; }
     public Cliente Cliente { get; private set; }
     public DateTime DataEmprestimo { get; private set; }
-    public DateTime DataDevolucao { get; private set; }
+    public DateTime DataDevolucao { get; private set; } 
 
     public Emprestimo(Livro livro, Cliente cliente)
     {
